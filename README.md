@@ -1,8 +1,8 @@
-# 📊 Menu Dashboard
+# Menu Dashboard
 
 Dashboard administrativo moderno con menú lateral responsivo desarrollado con Angular y Tailwind CSS.
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 
 - [Características](#características)
 - [Capturas de Pantalla](#capturas-de-pantalla)
@@ -14,7 +14,7 @@ Dashboard administrativo moderno con menú lateral responsivo desarrollado con A
 - [Funcionalidades](#funcionalidades)
 - [Agradecimientos](#agradecimientos)
 
-## ✨ Características
+## Características
 
 - 🎨 Interfaz de dashboard moderna y atractiva
 - 📱 Diseño completamente responsivo para todos los dispositivos
@@ -26,7 +26,7 @@ Dashboard administrativo moderno con menú lateral responsivo desarrollado con A
 - 👤 Sección de perfil de usuario
 - 📈 Visualización de estadísticas y métricas
 
-## 📸 Capturas de Pantalla
+## Capturas de Pantalla
 
 ### Dashboard Principal
 ![Dashboard](screenshots/Screen_laptop.png)
@@ -35,7 +35,7 @@ Dashboard administrativo moderno con menú lateral responsivo desarrollado con A
 ![Vista Móvil](screenshots/Screen_mobile.png)
 
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Framework**: Angular 20.3.3
 - **Lenguaje**: TypeScript
@@ -43,7 +43,7 @@ Dashboard administrativo moderno con menú lateral responsivo desarrollado con A
 - **Build Tool**: Angular CLI
 - **Routing**: Angular Router
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado:
 
@@ -57,7 +57,7 @@ Para instalar Angular CLI globalmente:
 npm install -g @angular/cli@20.3.3
 ```
 
-## 🚀 Instalación
+## Instalación
 
 Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
@@ -88,7 +88,7 @@ http://localhost:4200
 
 La aplicación se recargará automáticamente cuando modifiques los archivos fuente.
 
-## ⚙️ Configuración
+## Configuración
 
 ### Comandos de Angular CLI
 
@@ -122,7 +122,7 @@ ng test
 ng e2e
 ```
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 menu-dashboard/
@@ -169,7 +169,7 @@ menu-dashboard/
 └── README.md                 # Este archivo
 ```
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 ### Menú Lateral (Sidebar)
 - Items de menú con iconos personalizados
@@ -193,7 +193,7 @@ menu-dashboard/
 - Animaciones y transiciones suaves
 - Optimización de rendimiento
 
-## 🙏 Agradecimientos
+## Agradecimientos
 
 - A la comunidad de Angular por los recursos y componentes
 - A Neiser Custodio - Canal de Youtube
